@@ -2,7 +2,7 @@ class circle
 {
 	public static void main(String args[])
 	{
-		int length = 5;
+		int length = 10;
 		int breadth = 6;
 		int radius = 2;
 		int A = length*breadth;
